@@ -16,9 +16,9 @@
 
 <div align="center">
   <h3>冬祭</h3>
-  冬節至，四時清。朔風上，天籟臨。<br>征人鼙鼓，異域飛襟。銀河浩渺，古今無垠。<br>星流指先落，月曜空際靈。浩茫滄海沒，桑田又曾經。<br>未來青空千代，明日梨花仙台。千載何方歸夢，棹舟星河波開。<br>光年計億先吾路，航跡星白風失途。舉目茫茫不知處，長歌漫漫可當哭。<br><br>
+  The winter festival arrives, the four seasons are clear. <br>The winter festival has arrived and the four seasons are clear. <br>The conscripts carry their drums, and their hearts fly from foreign lands. <br>The silver river is vast, the ancient and modern are infinite. <br>The stars fall before the fingers, the moon is in the sky. <br>The future of the sky is a thousand generations. <br>The future is a thousand generations in the blue sky, the future is a pear blossom platform. <br>The future sky is a thousand generations away. <br>The year of light is a billion years before my path, the voyage of the star is white and the wind is lost. <br> <br>The world's most important thing is the world's most important thing. <br><br>
 </div>
 
-![pcb](pcb.jpg)
+#![pcb](pcb.jpg)
 
 ---
