@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Welcome(◍˃̶ᗜ˂̶◍)✩</h1>
   Currently studying Python, C++, Java.<br><br>
+  Using VSCode, Blender, Aseprite, Krita, FLStudio, SynthV.<br><br>
 </div>
 
 
